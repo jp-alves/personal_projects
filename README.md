@@ -1,2 +1,2 @@
-# personal_projects
+# Personal projects
 Repository for personal data science projects
